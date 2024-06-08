@@ -19,17 +19,11 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nhanngocduong)](https://github.com/nhanngocduong/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=nhanngocduong)
 
 ##
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=nhanngocduong&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-##
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nhanngocduong&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=nhanngocduong&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)
 
 # About Rank
 
@@ -78,7 +72,7 @@ Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhanngocduong&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nhanngocduong/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhanngocduong&layout=compact&text_color=daf7dc&bg_color=151515)
    
 ### Social media: 📡    
 <!-- Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me.  -->
