@@ -1,3 +1,9 @@
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=nhanngocduong&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=nhanngocduong&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
 ### About Me:    
