@@ -20,10 +20,10 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-##
+### Monokai
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nhanngocduong" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=nhanngocduong&theme=monokai" />
 </p>
 
 ##
@@ -61,19 +61,6 @@ Ranks are `SSS` `SS` `S` `AAA` `AA` `A` `B` `C` `UNKNOWN` `SECRET`.
   <img alig src="https://github-profile-trophy.vercel.app/?username=nhanngocduong&title=Followers" />
 </p>
 
-### Chalk
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=nhanngocduong&theme=chalk" />
-</p>
-
-### Monokai
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=nhanngocduong&theme=monokai" />
-</p>
-
----
 
   
 <p align="center">
